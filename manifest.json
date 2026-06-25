@@ -2,7 +2,7 @@
   "name": "Caixa Baixa",
   "short_name": "Caixa Baixa",
   "description": "Controle financeiro pessoal",
-  "start_url": "./caixa-baixa_v2_3_0.html",
+  "start_url": "./caixa-baixa_v2_4_0.html",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#060D1A",
