@@ -1,7 +1,7 @@
-// Caixa Baixa — Service Worker v2.5.1
-const CACHE = 'caixa-baixa-v2-5-1';
+// Caixa Baixa — Service Worker v2.5.2
+const CACHE = 'caixa-baixa-v2-5-2';
 const ASSETS = [
-  './caixa-baixa_v2_5_1.html',
+  './caixa-baixa_v2_5_2.html',
   'https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap'
 ];
 self.addEventListener('install', e => {
